@@ -23,3 +23,5 @@ List<String> people = [ // put in this list the name of your people
   ' ',
 ];
 ```
+
+APK File is in `\build\app\outputs\flutter-apk\apk-release.apk`
