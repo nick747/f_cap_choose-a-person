@@ -5,7 +5,7 @@ Flutter app that given the list of some people's names, chooses a random person 
 ## How to use
 
 To use the app you need to write the people names in the list in the `main.dart`
-```
+```dart
 List<String> people = [ // put in this list the name of your people
   '',
   ' ',
