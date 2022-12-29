@@ -4,16 +4,16 @@ import 'dart:math';
 
 List<String> people = [ // put in this list the name of your people
   '',
-  'Noemi',
-  'Raffaele',
-  'Pietro',
-  'Eugenio',
-  'Andrea',
-  'Mario',
-  'Antonio',
-  'Salvatore',
-  'Brunella',
-  'Piergiorgio',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
 ];
 var min = 1;
 var max = people.length - 1;
